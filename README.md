@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 📱 Learning to build modern Android applications with Kotlin
+- 📱 Learning to build modern Android applications
 - 🍎 Growing my iOS development skills with Swift and SwiftUI
 - 🧱 Interested in MVVM and Clean Architecture
 - 🚀 Improving through practical projects and continuous learning
