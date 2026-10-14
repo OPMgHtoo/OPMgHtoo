@@ -24,7 +24,8 @@
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,git,github,firebase,figma" alt="Kotlin, Android Studio, Swift, Git, GitHub, Firebase, and Figma" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,flutter,dart,git,github,figma" alt="Kotlin, Android Studio, Swift, Flutter, Dart, Git, GitHub, and Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" />
 </p>
 
 ## Featured Project
